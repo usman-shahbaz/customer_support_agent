@@ -4,7 +4,7 @@
 
 Orders are processed within 24 hours after payment confirmation.
 
-Orders placed after 5 PM are processed on the next business day.
+Orders placed after 5 PM are processed on the next business day..
 
 Customers receive an email confirmation immediately after placing an order.
 
